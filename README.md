@@ -1,6 +1,6 @@
 # 🌍 Global News App 📰
 
-![Header Image][News App](https://github.com/user-attachments/assets/7c0bc370-1d9c-4247-b477-626aa32b61bb)
+![Header Image]![News App](https://github.com/user-attachments/assets/7c0bc370-1d9c-4247-b477-626aa32b61bb)
 
 ## 🚀 Overview  
 The Global News App is designed to provide users with a seamless, personalized, and engaging experience for accessing the latest news from around the world. Built using Flutter and integrated with the [News API](https://newsapi.org/), this app offers features such as category-specific browsing, favorite articles, and a powerful search function.
