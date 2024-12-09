@@ -56,20 +56,22 @@ Before running the app, ensure you have the following:
 
 Follow these steps to run the app locally:  
 
-1. **Clone the repository**:  
+1. **Clone the repository**:
+   
    ```bash
    git clone https://github.com/yourusername/GlobalNewsApp.git
    cd GlobalNewsApp
-2. **Install dependencies**;
+   
+3. **Install dependencies**;
 
    Copy code
    flutter pub get
    Add your News API key:
 
-3. **Open lib/constants.dart.**;
+4. **Open lib/constants.dart.**;
    Replace YOUR_API_KEY_HERE with your actual API key.
 
-4. **Run the app**;
+5. **Run the app**;
    
    Copy code
    flutter run
@@ -87,8 +89,6 @@ Follow these steps to run the app locally:
 # 🆕 Getting Started
 
 A new Flutter project.
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
