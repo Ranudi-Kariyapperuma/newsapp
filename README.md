@@ -1,6 +1,7 @@
 <h1 align="center">
-  🌍 Global News App 📰
+   News App 📰
 </h1>
+---
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/7c0bc370-1d9c-4247-b477-626aa32b61bb" alt="News App" width="800"/>
@@ -36,7 +37,7 @@ With its user-friendly design and powerful features, the app ensures that users 
 
 ## 📽️ Demo Video  
 
-[![Watch the Demo]![news app video](https://github.com/user-attachments/assets/62f7ddd7-872d-4fb9-a5b5-0f0a60c18aad)
+![news app video](https://github.com/user-attachments/assets/62f7ddd7-872d-4fb9-a5b5-0f0a60c18aad)
 
 </div>
 
