@@ -78,9 +78,9 @@ Follow these steps to run the app locally:
 
 # 📚 Technology Stack
 
-Framework: Flutter
-API: News API
-Local Database: SQLite
+- Framework: Flutter
+- API: News API
+- Local Database: SQLite
 
 ---
 
