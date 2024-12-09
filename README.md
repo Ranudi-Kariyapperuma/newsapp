@@ -1,6 +1,4 @@
-<p align="center">
-  # 🌍 Global News App 📰
-</p>
+
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/7c0bc370-1d9c-4247-b477-626aa32b61bb" alt="News App" width="800"/>
