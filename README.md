@@ -37,7 +37,7 @@ With its user-friendly design and powerful features, the app ensures that users 
 
 ## 📽️ Demo Video  
 
-<img src="https://github.com/user-attachments/assets/62f7ddd7-872d-4fb9-a5b5-0f0a60c18aad" alt="news app video" width="900"/>
+<img src="https://github.com/user-attachments/assets/3b8d102c-584b-41a0-a39f-08f915a9fe26" alt="news app video" width="900"/>
 
 </div>
 
